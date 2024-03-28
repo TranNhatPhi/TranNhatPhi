@@ -1,6 +1,7 @@
-![image](https://github.com/TranNhatPhi/TranNhatPhi/assets/120717587/2c0ef14c-29bd-4503-abbf-422e5de76580)<h1 align="center">Hi 👋, I'm Trần Nhật Phi</h1>
+<h1 align="center">Hi 👋, I'm Trần Nhật Phi</h1>
 <h3 align="center">I want to become Java Developer</h3>
-<img src="https://images.pexels.com/photos/2528118/pexels-photo-2528118.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="image is deleted" />
+<img src="https://images.pexels.com/photos/2528118/pexels-photo-2528118.jpeg?auto=compress&cs=tinysrgb" alt="image is deleted" style="width: 1000px; height: 1000px;">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trannhatphi&label=Profile%20views&color=0e75b6&style=flat" alt="trannhatphi" /> </p>
 
