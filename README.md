@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **language:java,c,c++,c#,python,Golang,typescript**
 
-- 💬 Ask me about **Skill: Java Spring boot, Hibernate, Spring JPA, Spring security, Spring JDBC,servlet, JSP. FE: Angular GIT: Github, Gitlab SQL: Postgresql, Mysql, MSsql, MongoDB Linux: Ubuntu Docker: basic Fundamental Knowledge: Object Oriented Programming,Data Structures and Algorithms**
+- 💬 Ask me about **Skill: Java Spring boot, Hibernate, Spring JPA, Spring security, Spring JDBC,servlet, JSP. FE: Angular GIT: Github, Gitlab SQL: Postgresql, Mysql, MSsql, MongoDB Linux: Ubuntu Docker: basic Fundamental Knowledge: Object Oriented Programming Data Structures and Algorithms**
 
 - 📫 How to reach me **phivt1234@gmail,com**
 
