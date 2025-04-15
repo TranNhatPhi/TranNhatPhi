@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Skill: Java Spring boot, Hibernate, Spring JPA, Spring security, Spring JDBC,servlet, JSP. FE: Angular GIT: Github, Gitlab SQL: Postgresql, Mysql, MSsql, MongoDB Linux: Ubuntu Docker: basic Fundamental Knowledge: Object Oriented Programming Data Structures and Algorithms**
 
-- 📫 How to reach me **phivt1234@gmail,com**
+- 📫 How to reach me **phivt1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
