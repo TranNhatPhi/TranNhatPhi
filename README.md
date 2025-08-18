@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trần Nhật Phi</h1>
-<h3 align="center">I want to become Java Developer</h3>
+<h3 align="center">I want to become AI Developer</h3>
 <img src="https://images.pexels.com/photos/2528118/pexels-photo-2528118.jpeg?auto=compress&cs=tinysrgb" alt="image is deleted" style="width: 1000px; height: 1000px;">
 
 
