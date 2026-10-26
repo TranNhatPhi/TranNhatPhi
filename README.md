@@ -1,32 +1,102 @@
-<h1 align="center">Hi 👋, I'm Trần Nhật Phi</h1>
-<h3 align="center">I want to become AI Developer</h3>
-<img src="https://images.pexels.com/photos/2528118/pexels-photo-2528118.jpeg?auto=compress&cs=tinysrgb" alt="image is deleted" style="width: 1000px; height: 1000px;">
+<h1 align="center">Hi there 👋, I'm Trần Nhật Phi</h1>
+<h3 align="center">AI Engineer in the making · Building practical AI for Vietnamese data</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trannhatphi&label=Profile%20views&color=0e75b6&style=flat" alt="trannhatphi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trannhatphi" alt="trannhatphi" /></a> </p>
-
-- 🌱 I’m currently learning **language:java,c,c++,c#,python,Golang,typescript**
-
-- 💬 Ask me about **Skill: Java Spring boot, Hibernate, Spring JPA, Spring security, Spring JDBC,servlet, JSP. FE: Angular GIT: Github, Gitlab SQL: Postgresql, Mysql, MSsql, MongoDB Linux: Ubuntu Docker: basic Fundamental Knowledge: Object Oriented Programming Data Structures and Algorithms**
-
-- 📫 How to reach me **phivt1234@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev.trannhatphi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.trannhatphi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8598_trần nhật phi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8598_trần nhật phi" height="30" width="40" /></a>
-<a href="https://medium.com/@nhatphi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nhatphi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/phivt1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/phivt1234" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/phivt1234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/phivt1234/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/TranNhatPhi"><img src="https://komarev.com/ghpvc/?username=TranNhatPhi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
+  <a href="https://x.com/phivt12345"><img src="https://img.shields.io/badge/X-@phivt12345-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://github.com/TranNhatPhi?tab=followers"><img src="https://img.shields.io/github/followers/TranNhatPhi?label=Followers&style=flat&color=success" alt="followers" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trannhatphi&show_icons=true&locale=en&layout=compact" alt="trannhatphi" /></p>
+## 🧑‍💻 About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trannhatphi&show_icons=true&locale=en" alt="trannhatphi" /></p>
+- 🎯 Goal: become a full-fledged **AI Developer** — from research prototype to production system
+- 🔬 Currently doing **scientific research (NCKH)** on machine learning and Vietnamese NLP / OCR
+- 🤖 Building **LLM agents, MCP servers and RAG knowledge bases** for real business workflows
+- ⚙️ Background in **backend engineering** (Spring Boot, gRPC, .NET) and mobile (Flutter)
+- 🌱 Always learning: agentic systems, graph-based retrieval (Neo4j), document AI
+- 💬 Ask me about: Python, ML pipelines, MCP / LLM tooling, Spring Boot APIs
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trannhatphi&" alt="trannhatphi" /></p>
+---
+
+## 🛠️ Tech stack
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**LLM / Agents / Automation**
+
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6E56CF?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+
+**Backend & Mobile**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Data & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**handwriting-recognition**](https://github.com/TranNhatPhi/handwriting-recognition) | Vietnamese handwriting recognition (OCR) | Python · Deep Learning |
+| [**AI_LICENCE_PLATE_WASH**](https://github.com/TranNhatPhi/AI_LICENCE_PLATE_WASH) | AI license-plate recognition for a car-wash workflow | Python · Computer Vision · Web |
+| [**dynamic-feat-xgboost**](https://github.com/TranNhatPhi/dynamic-feat-xgboost) | Dynamic feature engineering experiments with XGBoost | Python · ML |
+| [**Dataset_floods**](https://github.com/TranNhatPhi/Dataset_floods) | Flood dataset collection & processing for research | Python · Data |
+| [**MCP_server_LS**](https://github.com/TranNhatPhi/MCP_server_LS) | Custom MCP server exposing business tools to LLM agents | Python · MCP |
+| [**lnc-knowledge-basev3**](https://github.com/TranNhatPhi/lnc-knowledge-basev3) | Immigration-domain knowledge base for RAG / AI assistants | RAG · Knowledge Base |
+| [**n8n_LS**](https://github.com/TranNhatPhi/n8n_LS) | Workflow automation pipelines with n8n + Python | n8n · Python |
+| [**appChatFullter**](https://github.com/TranNhatPhi/appChatFullter) | Real-time chat application | Flutter · Dart |
+| [**Springboot-BE-electronic-devices**](https://github.com/TranNhatPhi/Springboot-BE-electronic-devices) | REST backend for an electronics e-commerce store | Java · Spring Boot |
+| [**gRPC_Demo**](https://github.com/TranNhatPhi/gRPC_Demo) | Service-to-service communication with gRPC | C# · .NET · gRPC |
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TranNhatPhi&show_icons=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranNhatPhi&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TranNhatPhi&hide_border=true&theme=github-dark-blue" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TranNhatPhi&hide_border=true&theme=github-compact" alt="Contribution graph" />
+</p>
+
+---
+
+## 🤝 Let's connect
+
+<p align="center">
+  <a href="https://x.com/phivt12345"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://github.com/TranNhatPhi"><img src="https://img.shields.io/badge/GitHub-TranNhatPhi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center"><i>Open to collaboration on AI research, Vietnamese NLP/OCR and LLM agent projects.</i></p>
